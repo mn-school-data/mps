@@ -493,7 +493,7 @@ def pct(v):
 
 
 # ---------------------------------------------------------------- pages
-NAV = [("index.html", "Overview"), ("structure.html", "Financial structure"), ("money.html", "Money in and out"),
+NAV = [("index.html", "Overview"), ("structure.html", "Financial structure"), ("money.html", "Money in and out"), ("facilities.html", "Buildings"),
        ("enrollment.html", "Enrollment"), ("governance.html", "Governance"), ("sources.html", "Sources and gaps"), ("data.html", "Data")]
 
 
@@ -1053,6 +1053,82 @@ def build(src, out):
         pages["structure.html"] = ("Financial structure", "Financial structure", "\n".join(body))
     else:
         NAV[:] = [n for n in NAV if n[0] != "structure.html"]
+
+    # ---- buildings and closures (optional)
+    fa = src / "analysis" / "facilities_site.md"
+    if fa.exists():
+        atext = sanitize(fa.read_text())
+        title = re.match(r"#\s+(.*)", atext)
+        atext = re.sub(r"\A\s*#\s+.*\n", "", atext)
+        main_md, _, src_md = atext.partition("\n## Sources\n")
+        charts = {}
+        bf = src / "facilities" / "buildings_fy2025.csv"
+        if bf.exists():
+            with open(bf) as f:
+                brow = [r for r in csv.DictReader(f) if r["utilization_pct"]]
+            lv = [("Elementary", "Elementary Schools"), ("Middle and K-8", "Middle Schools"), ("High", "High Schools")]
+            seats = {n: sum(float(r["capacity"]) for r in brow if r["category"] == c) for n, c in lv}
+            kids = {n: sum(float(r["enrollment_incl_programs"]) for r in brow if r["category"] == c) for n, c in lv}
+            c_util = hbar_chart("Seats and students by school level, 2024-25", [n for n, _ in lv], [
+                {"name": "Seats", "values": seats}, {"name": "Students", "values": kids}], count)
+            charts["utilization"] = chart_block(c_util, "Seats and students, 2024-25",
+                f"Capacity and enrollment of the {len(brow)} active school buildings, by level. Overall they are 64% full. "
+                "District building table in the FY2025 annual financial report [1].")
+            bands = [("Under 50%", 0, 50), ("50-60%", 50, 60), ("60-70%", 60, 70), ("70-85%", 70, 85), ("85% or more", 85, 999)]
+            cnt = {n: sum(1 for r in brow if lo <= float(r["utilization_pct"]) < hi) for n, lo, hi in bands}
+            c_full = hbar_chart("School buildings by how full they are, 2024-25", [n for n, _, _ in bands],
+                                [{"name": "Buildings", "values": cnt}], count)
+            charts["fullness"] = chart_block(c_full, "How full each school is",
+                "Number of school buildings by enrollment as a share of capacity, 2024-25. Programs housed in a building count toward it [1].")
+        fsx = src / "facilities" / "facilities_spending_series.csv"
+        if fsx.exists():
+            with open(fsx) as f:
+                frow = list(csv.DictReader(f))
+            fcol = lambda fn: {int(r["fiscal_year"]): fn(r) for r in frow}
+            c_fsp = line_chart("Building-related spending, all governmental funds", [
+                {"name": "Debt service", "points": fcol(lambda r: float(r["govfunds_debt_principal"]) + float(r["govfunds_debt_interest"]))},
+                {"name": "Running buildings, all funds", "points": fcol(lambda r: float(r["govfunds_sites_buildings_current"]))},
+                {"name": "Running buildings, General Fund", "points": fcol(lambda r: float(r["gf_sites_buildings_current"]))}],
+                musd, musd1, y0=0)
+            charts["spending"] = chart_block(c_fsp, "Building spending, FY2016 to FY2025",
+                "Not adjusted for inflation. Debt service includes some non-building items such as leases and software subscriptions. "
+                "FY2025 annual financial report, statistical Table 3 [1].")
+        lv_f = src / "facilities" / "school_levy_history.csv"
+        if lv_f.exists():
+            with open(lv_f) as f:
+                lrow = list(csv.DictReader(f))
+            ly = [int(r["taxes_payable_year"]) for r in lrow]
+            lcol = lambda fn: {int(r["taxes_payable_year"]): fn(r) for r in lrow}
+            c_levy = bar_chart("School property tax levy by purpose, taxes payable 2016 to 2026", ly, [
+                {"name": "Building debt", "points": lcol(lambda r: float(r["debt_service_levy"]))},
+                {"name": "Operating and community service", "points": lcol(lambda r: float(r["general_fund_levy"]) + float(r["community_service_levy"]))}],
+                musd, musd1)
+            charts["levy"] = chart_block(c_levy, "School levy by purpose",
+                "Certified school levy by the year the taxes are paid. The operating part includes the voter-approved referendums and technology levy. "
+                "Annual financial report Tables 10-11 [1]; 2026 from the state certification [14].")
+        dp_f = src / "facilities" / "debt_service_projection.csv"
+        if dp_f.exists():
+            with open(dp_f) as f:
+                drow = [r for r in csv.DictReader(f) if int(r["fiscal_year"]) >= 2027]
+            dcol = lambda k: {int(r["fiscal_year"]): float(r[k]) * 1e6 for r in drow}
+            c_debt = line_chart("Projected debt service on bonds and certificates, FY2027 to FY2040 (estimate)", [
+                {"name": "Keep borrowing about $80M a year", "points": dcol("scenario_A_80M_new_per_year_M")},
+                {"name": "Borrow only for maintenance, about $38M a year", "points": dcol("scenario_B_38M_LTFM_only_per_year_M")},
+                {"name": "No new borrowing after Dec 2025", "points": dcol("plus_dec2025_issues_M")}],
+                musd, musd1, y0=0)
+            charts["debt"] = chart_block(c_debt, "Debt payments under three borrowing paths (estimate)",
+                "Our projection, not the district's. Existing payments are from the FY2025 annual financial report, Note 5, with its 5-year bands "
+                "spread evenly, so the steps in FY2031 and FY2036 are artifacts. New bonds are assumed to be 20-year at 5% [1].")
+        html_main = re.sub(r"<p>\{\{chart:(\w+)\}\}</p>|\{\{chart:(\w+)\}\}",
+                           lambda m: "@@CHART:" + (m.group(1) or m.group(2)) + "@@", md(main_md))
+        html_main = re.sub(r"@@CHART:(\w+)@@", lambda m: charts.get(m.group(1), ""), html_main)
+        abody, alist = cite_links(html_main, md(src_md))
+        body = [f"<h1>{inline(title.group(1), links) if title else 'Buildings'}</h1>", abody]
+        if src_md.strip():
+            body += ['<h2 id="sources">Sources</h2>', alist]
+        pages["facilities.html"] = ("Buildings", "Buildings", "\n".join(body))
+    else:
+        NAV[:] = [n for n in NAV if n[0] != "facilities.html"]
 
     # ---- sources
     t3, found = sec(r"sources found")
