@@ -1,0 +1,24 @@
+fiscal_year,metric,value,units,source_url
+2015,General education basic formula allowance,5831,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2016,General education basic formula allowance,5948,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2017,General education basic formula allowance,6067,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2018,General education basic formula allowance,6188,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2019,General education basic formula allowance,6312,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2020,General education basic formula allowance,6438,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2021,General education basic formula allowance,6567,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2022,General education basic formula allowance,6728,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2023,General education basic formula allowance,6863,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2024,General education basic formula allowance,7138,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2025,General education basic formula allowance,7281,USD per pupil unit,https://www.lrl.mn.gov/docs/2024/other/241551.pdf
+2023,LEAs in statutory operating debt (active units),13,count,https://www.lrl.mn.gov/docs/2024/mandated/240178.pdf
+2023,LEAs with net negative unreserved general fund balance,23,count,https://www.lrl.mn.gov/docs/2024/mandated/240178.pdf
+2023,Minneapolis listed in statutory operating debt,no,flag,https://www.lrl.mn.gov/docs/2024/mandated/240178.pdf
+2024,LEAs in statutory operating debt (active units),14,count,https://www.lrl.mn.gov/docs/2025/Mandated/250657.pdf
+2024,LEAs with net negative unreserved general fund balance,23,count,https://www.lrl.mn.gov/docs/2025/Mandated/250657.pdf
+2024,Minneapolis listed in statutory operating debt,no,flag,https://www.lrl.mn.gov/docs/2025/Mandated/250657.pdf
+2025,LEAs in statutory operating debt (active units),10,count,https://www.lrl.mn.gov/docs/2026/mandated/260605.pdf
+2025,LEAs with net negative unreserved general fund balance,14,count,https://www.lrl.mn.gov/docs/2026/mandated/260605.pdf
+2025,Minneapolis listed in statutory operating debt,no,flag,https://www.lrl.mn.gov/docs/2026/mandated/260605.pdf
+2025,Robbinsdale unreserved general fund balance (in SOD),-9521659,USD,https://www.lrl.mn.gov/docs/2026/mandated/260605.pdf
+2025,Robbinsdale SOD percent of GF expenditures,-5.75,percent,https://www.lrl.mn.gov/docs/2026/mandated/260605.pdf
+2025,Fridley SOD percent of GF expenditures,-16.18,percent,https://www.lrl.mn.gov/docs/2026/mandated/260605.pdf

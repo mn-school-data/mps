@@ -1,0 +1,21 @@
+fiscal_year,metric,value,units,basis,source_url
+2023,total_revenue,795276000,USD,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,federal_revenue,140831000,USD,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,local_revenue,277290000,USD,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,state_revenue,377155000,USD,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,total_expenditures,814929000,USD,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,total_current_expenditures,637794000,USD,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,total_revenue_per_student,27231,USD per student,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,federal_revenue_per_student,4822,USD per student,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,local_revenue_per_student,9495,USD per student,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,state_revenue_per_student,12914,USD per student,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,total_expenditures_per_student,27904,USD per student,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,current_expenditures_per_student,21839,USD per student,"NCES CCD F-33 (Census school finance survey), all funds, non-GAAP",https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2015,all_metrics,,,GAP: NCES page shows only latest year; ElSi/Urban API blocked,
+2016,all_metrics,,,GAP: NCES page shows only latest year; ElSi/Urban API blocked,
+2017,all_metrics,,,GAP: NCES page shows only latest year; ElSi/Urban API blocked,
+2018,all_metrics,,,GAP: NCES page shows only latest year; ElSi/Urban API blocked,
+2019,all_metrics,,,GAP: NCES page shows only latest year; ElSi/Urban API blocked,
+2020,all_metrics,,,GAP: NCES page shows only latest year; ElSi/Urban API blocked,
+2021,all_metrics,,,GAP: NCES page shows only latest year; ElSi/Urban API blocked,
+2022,all_metrics,,,GAP: NCES page shows only latest year; ElSi/Urban API blocked,

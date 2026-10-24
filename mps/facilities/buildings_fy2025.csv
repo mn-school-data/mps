@@ -1,0 +1,77 @@
+category,facility,program_in_building,constructed,square_feet,square_feet_note,capacity,enrollment_2024_25,enrollment_incl_programs,utilization_pct,sq_ft_per_student
+Elementary Schools,Armatage,False,1952,86488,,575,375,375,65.2,231
+Elementary Schools,Bancroft,False,1912,79267,,665,499,499,75.0,159
+Elementary Schools,Barton Community,False,1915,83752,,660,502,502,76.1,167
+Elementary Schools,Bethune Arts,False,1968,75615,,519,282,282,54.3,268
+Elementary Schools,Bryn Mawr Community,False,1959,102658,,580,431,431,74.3,238
+Elementary Schools,Burroughs Community,False,1926/2003,100367,,647,473,473,73.1,212
+Elementary Schools,Cityview,False,1999,121588,,712,256,256,36.0,475
+Elementary Schools,Dowling,False,1924,88608,,485,337,337,69.5,263
+Elementary Schools,Ella Baker,False,1923,156450,,645,653,653,101.2,240
+Elementary Schools,Emerson Spanish Dual Immersion,False,1926,57061,,431,519,519,120.4,110
+Elementary Schools,Field Community,False,1921,81171,,476,287,287,60.3,283
+Elementary Schools,Folwell,False,1931,140629,,863,468,468,54.2,300
+Elementary Schools,Green Central Dual Language,False,1977,117773,,665,574,574,86.3,205
+Elementary Schools,Hale Community,False,1930,81807,,539,334,334,62.0,245
+Elementary Schools,Hall STEM Academy,False,1960,81030,,489,241,241,49.3,336
+Elementary Schools,Hiawatha (Hiawatha Community,False,1916,40888,,284,220,220,77.5,186
+Elementary Schools,Hmong International Academy (Jordan Park),False,1999,123293,,751,258,258,34.4,478
+Elementary Schools,Howe (Hiawatha Community),False,1927,36161,,267,247,247,92.5,146
+Elementary Schools,Jenny Lind Elementary,False,1995,96693,,529,254,254,48.0,381
+Elementary Schools,Kenny Community,False,1954,60104,,413,299,299,72.4,201
+Elementary Schools,Kenwood Community,False,1908,65699,,431,383,383,88.9,172
+Elementary Schools,Lake Harriet Community Lower,False,1924,63646,,480,314,314,65.4,203
+Elementary Schools,Lake Harriet Community Upper,False,1915,85874,,615,273,273,44.4,315
+Elementary Schools,Lake Nokomis Community Keewaydin Campus,False,1928,86050,,561,355,355,63.3,242
+Elementary Schools,Lake Nokomis Community Wenonah Campus,False,1952,44827,,284,167,167,58.8,268
+Elementary Schools,Las Estrellas/ Sheridan Dual Language,False,1967/1932,148005,,737,467,467,63.4,317
+Elementary Schools,Loring,False,1928,59896,,373,339,339,90.9,177
+Elementary Schools,Lucy Craft Laney at Cleveland Park,False,2000,109026,,711,417,417,58.6,261
+Elementary Schools,Lyndale Elementary,False,1968,97506,,631,512,512,81.1,190
+Elementary Schools,Marcy Arts Elementary,False,1992,78957,,611,470,470,76.9,168
+Elementary Schools,Nellie Stone Johnson Community,False,2001,125150,,713,285,285,40.0,439
+Elementary Schools,Northrop/ Ericsson,False,1916,33698,,444,384,384,86.5,88
+Elementary Schools,Pillsbury Community,False,1907/1991,87705,,582,419,419,72.0,209
+Elementary Schools,Pratt Community,False,1898,42437,,256,228,228,89.1,186
+Elementary Schools,Seward Montessori,False,1887/1966,126726,,905,648,648,71.6,196
+Elementary Schools,Tuttle (vacant),False,1910,63305,,,,,,
+Elementary Schools,Waite Park Community,False,1950,60073,,485,293,293,60.4,205
+Elementary Schools,Webster,False,1974,73414,,467,308,308,66.0,238
+Elementary Schools,Whittier,False,1882/1997,142460,,565,497,497,88.0,287
+Elementary Schools,Willard (vacant),False,1910,53635,,,,,,
+Elementary Schools,Windom,False,1920,73618,,503,385,385,76.5,191
+Middle Schools,Andersen United,False,1975,232557,,1517,1063,1063,70.1,219
+Middle Schools,Anthony,False,1957,143158,,931,741,741,79.6,193
+Middle Schools,Anwatin,False,1959,146771,,760,307,307,40.4,478
+Middle Schools,Franklin STEAM,False,1970,125794,,656,280,280,42.7,449
+Middle Schools,Justice Page,False,1931,156856,,1189,968,968,81.4,162
+Middle Schools,Lincoln (vacant),False,1922,155831,,,,,,
+Middle Schools,Northeast Middle,False,1956,173080,,948,565,565,59.6,306
+Middle Schools,"Olson, Floyd B.",False,1962,114959,,640,333,333,52.0,345
+Middle Schools,River Bend Educational Center (K - 8th) W Harry Davis,False,1995,93483,,533,68,68,12.8,1375
+Middle Schools,Sanford,False,1926,150680,,1025,721,721,70.3,209
+Middle Schools,Sullivan STEAM (K-8),False,1949,214421,"FY2025 ACFR prints 60,073 (same as Waite Park); FY2022 ACFR value 214,421 used",1230,646,855,69.5,251
+Middle Schools,Anishinabe (K-5),True,,,,,209,,,
+High Schools,Camden,False,1926,240121,,1477,785,785,53.1,306
+High Schools,Edison,False,1922,257922,,1421,840,840,59.1,307
+High Schools,FAIR School Downtown,False,1996,86150,,728,311,311,42.7,277
+High Schools,Harrison Education Center,False,1998,54793,,246,50,50,20.3,1096
+High Schools,Longfellow Alternative and TPS,False,1918,42733,,417,48,48,11.5,890
+High Schools,North Community,False,1972,329413,,1292,510,510,39.5,646
+High Schools,Roosevelt,False,1922,324718,,2033,1240,1240,61.0,262
+High Schools,South,False,1970,283094,,2089,1260,1260,60.3,225
+High Schools,Southwest,False,1940,295832,,2030,1198,1198,59.0,247
+High Schools,Stadium View,False,,,,,36,,,
+High Schools,Washburn,False,1925,246430,,1771,1523,1523,86.0,162
+Other,Adult Basic Education (ABE) South Campus (2015 E Lake St),False,2018,134340,,,71,,,
+Other,Transition Plus (ages 18-21),True,,,,,248,,,
+Other,Adult Basic Education (ABE) North Campus (800 W Broadway),False,2017,22009,,,,,,
+Other,MPS K-12 Online School,False,,,,,658,,,
+Other,Northstar (Admin),False,1975,144197,,,,,,
+Other,Mona Moede Early Learning Center,True,,,,,,,,
+Other,Wilder,False,1967,205536,,1622,,104,,
+Other,Heritage Academy (program),True,,,,418,104,,,
+Administrative,Davis Center,False,2012,173768,,,,,,
+Administrative,Maintenance and Operations Building,False,1995,89729,,,,,,
+Administrative,Nutrition Center,False,1975,73143,,,,,,
+Administrative,Victory Memorial Ice Arena (vacant),False,1974,27725,,,,,,

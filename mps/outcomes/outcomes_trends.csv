@@ -1,0 +1,535 @@
+year,entity,metric,value,hs_graduates,year_means,source_url
+2010,Minneapolis,four_year_college_pct,39.5,1697,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2011,Minneapolis,four_year_college_pct,40.6,1576,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2012,Minneapolis,four_year_college_pct,41.9,1509,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2013,Minneapolis,four_year_college_pct,40.7,1602,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2014,Minneapolis,four_year_college_pct,39.0,1632,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2015,Minneapolis,four_year_college_pct,37.4,1753,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2016,Minneapolis,four_year_college_pct,37.5,1902,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2017,Minneapolis,four_year_college_pct,38.7,1928,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2018,Minneapolis,four_year_college_pct,38.7,2154,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2019,Minneapolis,four_year_college_pct,35.5,2290,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2020,Minneapolis,four_year_college_pct,32.5,2253,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2021,Minneapolis,four_year_college_pct,38.5,2004,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2022,Minneapolis,four_year_college_pct,39.4,2141,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2023,Minneapolis,four_year_college_pct,45.4,1955,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2024,Minneapolis,four_year_college_pct,44.2,2089,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2010,St. Paul,four_year_college_pct,35.6,2325,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2011,St. Paul,four_year_college_pct,35.8,2315,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2012,St. Paul,four_year_college_pct,35.5,2214,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2013,St. Paul,four_year_college_pct,34.6,2393,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2014,St. Paul,four_year_college_pct,33.5,2290,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2015,St. Paul,four_year_college_pct,35.7,2203,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2016,St. Paul,four_year_college_pct,37.1,2231,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2017,St. Paul,four_year_college_pct,35.6,2226,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2018,St. Paul,four_year_college_pct,33.1,2287,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2019,St. Paul,four_year_college_pct,35.8,2351,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2020,St. Paul,four_year_college_pct,33.4,2356,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2021,St. Paul,four_year_college_pct,36.5,2133,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2022,St. Paul,four_year_college_pct,33.9,2295,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2023,St. Paul,four_year_college_pct,37.1,2122,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2024,St. Paul,four_year_college_pct,38.3,2201,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2010,First-ring suburbs,four_year_college_pct,52.8,6743,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2011,First-ring suburbs,four_year_college_pct,53.4,6723,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2012,First-ring suburbs,four_year_college_pct,53.0,6653,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2013,First-ring suburbs,four_year_college_pct,51.8,6853,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2014,First-ring suburbs,four_year_college_pct,51.2,6851,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2015,First-ring suburbs,four_year_college_pct,51.3,6790,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2016,First-ring suburbs,four_year_college_pct,49.8,6717,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2017,First-ring suburbs,four_year_college_pct,51.5,6609,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2018,First-ring suburbs,four_year_college_pct,49.1,6882,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2019,First-ring suburbs,four_year_college_pct,48.4,7139,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2020,First-ring suburbs,four_year_college_pct,44.6,6948,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2021,First-ring suburbs,four_year_college_pct,47.6,6788,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2022,First-ring suburbs,four_year_college_pct,46.2,7229,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2023,First-ring suburbs,four_year_college_pct,46.5,7094,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2024,First-ring suburbs,four_year_college_pct,47.4,6987,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2010,Second-ring suburbs,four_year_college_pct,55.6,14022,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2011,Second-ring suburbs,four_year_college_pct,56.5,14067,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2012,Second-ring suburbs,four_year_college_pct,57.6,14000,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2013,Second-ring suburbs,four_year_college_pct,56.7,14179,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2014,Second-ring suburbs,four_year_college_pct,57.6,14001,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2015,Second-ring suburbs,four_year_college_pct,56.9,13917,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2016,Second-ring suburbs,four_year_college_pct,58.0,13612,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2017,Second-ring suburbs,four_year_college_pct,57.4,13846,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2018,Second-ring suburbs,four_year_college_pct,55.8,14475,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2019,Second-ring suburbs,four_year_college_pct,56.3,14700,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2020,Second-ring suburbs,four_year_college_pct,54.1,14337,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2021,Second-ring suburbs,four_year_college_pct,55.8,14653,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2022,Second-ring suburbs,four_year_college_pct,54.7,15133,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2023,Second-ring suburbs,four_year_college_pct,55.8,15242,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2024,Second-ring suburbs,four_year_college_pct,54.3,15279,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2010,Statewide,four_year_college_pct,45.2,59641,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2011,Statewide,four_year_college_pct,45.5,59292,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2012,Statewide,four_year_college_pct,46.4,57533,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2013,Statewide,four_year_college_pct,46.6,58308,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2014,Statewide,four_year_college_pct,46.3,57457,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2015,Statewide,four_year_college_pct,46.2,58006,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2016,Statewide,four_year_college_pct,46.6,57991,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2017,Statewide,four_year_college_pct,46.4,58377,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2018,Statewide,four_year_college_pct,45.4,59784,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2019,Statewide,four_year_college_pct,44.7,61218,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2020,Statewide,four_year_college_pct,42.2,60600,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2021,Statewide,four_year_college_pct,43.7,60404,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2022,Statewide,four_year_college_pct,42.5,62848,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2023,Statewide,four_year_college_pct,43.5,62199,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2024,Statewide,four_year_college_pct,42.4,63169,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2010,Minneapolis,two_year_college_pct,26.8,1697,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2011,Minneapolis,two_year_college_pct,22.4,1576,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2012,Minneapolis,two_year_college_pct,26.8,1509,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2013,Minneapolis,two_year_college_pct,24.8,1602,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2014,Minneapolis,two_year_college_pct,25.5,1632,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2015,Minneapolis,two_year_college_pct,26.9,1753,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2016,Minneapolis,two_year_college_pct,24.9,1902,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2017,Minneapolis,two_year_college_pct,25.3,1928,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2018,Minneapolis,two_year_college_pct,22.2,2154,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2019,Minneapolis,two_year_college_pct,22.0,2290,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2020,Minneapolis,two_year_college_pct,18.8,2253,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2021,Minneapolis,two_year_college_pct,17.0,2004,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2022,Minneapolis,two_year_college_pct,18.0,2141,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2023,Minneapolis,two_year_college_pct,14.6,1955,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2024,Minneapolis,two_year_college_pct,16.0,2089,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2010,St. Paul,two_year_college_pct,26.0,2325,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2011,St. Paul,two_year_college_pct,26.6,2315,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2012,St. Paul,two_year_college_pct,27.4,2214,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2013,St. Paul,two_year_college_pct,26.0,2393,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2014,St. Paul,two_year_college_pct,26.2,2290,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2015,St. Paul,two_year_college_pct,24.4,2203,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2016,St. Paul,two_year_college_pct,24.5,2231,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2017,St. Paul,two_year_college_pct,23.4,2226,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2018,St. Paul,two_year_college_pct,24.0,2287,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2019,St. Paul,two_year_college_pct,21.4,2351,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2020,St. Paul,two_year_college_pct,18.5,2356,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2021,St. Paul,two_year_college_pct,18.8,2133,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2022,St. Paul,two_year_college_pct,18.8,2295,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2023,St. Paul,two_year_college_pct,17.7,2122,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2024,St. Paul,two_year_college_pct,17.5,2201,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2010,First-ring suburbs,two_year_college_pct,23.0,6743,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2011,First-ring suburbs,two_year_college_pct,21.1,6723,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2012,First-ring suburbs,two_year_college_pct,21.3,6653,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2013,First-ring suburbs,two_year_college_pct,23.0,6853,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2014,First-ring suburbs,two_year_college_pct,23.0,6851,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2015,First-ring suburbs,two_year_college_pct,22.1,6790,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2016,First-ring suburbs,two_year_college_pct,21.9,6717,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2017,First-ring suburbs,two_year_college_pct,21.2,6609,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2018,First-ring suburbs,two_year_college_pct,21.7,6882,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2019,First-ring suburbs,two_year_college_pct,21.4,7139,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2020,First-ring suburbs,two_year_college_pct,19.4,6948,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2021,First-ring suburbs,two_year_college_pct,17.0,6788,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2022,First-ring suburbs,two_year_college_pct,17.2,7229,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2023,First-ring suburbs,two_year_college_pct,17.8,7094,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2024,First-ring suburbs,two_year_college_pct,18.5,6987,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2010,Second-ring suburbs,two_year_college_pct,21.6,14022,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2011,Second-ring suburbs,two_year_college_pct,21.0,14067,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2012,Second-ring suburbs,two_year_college_pct,20.8,14000,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2013,Second-ring suburbs,two_year_college_pct,20.2,14179,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2014,Second-ring suburbs,two_year_college_pct,19.5,14001,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2015,Second-ring suburbs,two_year_college_pct,19.3,13917,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2016,Second-ring suburbs,two_year_college_pct,19.1,13612,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2017,Second-ring suburbs,two_year_college_pct,18.6,13846,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2018,Second-ring suburbs,two_year_college_pct,18.9,14475,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2019,Second-ring suburbs,two_year_college_pct,18.7,14700,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2020,Second-ring suburbs,two_year_college_pct,18.5,14337,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2021,Second-ring suburbs,two_year_college_pct,16.1,14653,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2022,Second-ring suburbs,two_year_college_pct,15.7,15133,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2023,Second-ring suburbs,two_year_college_pct,16.9,15242,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2024,Second-ring suburbs,two_year_college_pct,16.9,15279,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2010,Statewide,two_year_college_pct,25.2,59641,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2011,Statewide,two_year_college_pct,23.9,59292,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2012,Statewide,two_year_college_pct,24.1,57533,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2013,Statewide,two_year_college_pct,24.0,58308,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2014,Statewide,two_year_college_pct,23.4,57457,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2015,Statewide,two_year_college_pct,23.0,58006,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2016,Statewide,two_year_college_pct,22.6,57991,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2017,Statewide,two_year_college_pct,22.0,58377,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2018,Statewide,two_year_college_pct,21.8,59784,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2019,Statewide,two_year_college_pct,21.5,61218,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2020,Statewide,two_year_college_pct,20.0,60600,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2021,Statewide,two_year_college_pct,18.3,60404,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2022,Statewide,two_year_college_pct,18.3,62848,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2023,Statewide,two_year_college_pct,18.4,62199,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2024,Statewide,two_year_college_pct,19.0,63169,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/out-of-state-enrollment
+2007,Minneapolis,any_college_pct,59.8,1883,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2008,Minneapolis,any_college_pct,65.3,1866,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2009,Minneapolis,any_college_pct,67.0,1701,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2010,Minneapolis,any_college_pct,66.3,1697,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2011,Minneapolis,any_college_pct,63.0,1576,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2012,Minneapolis,any_college_pct,68.7,1509,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2013,Minneapolis,any_college_pct,65.5,1602,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2014,Minneapolis,any_college_pct,64.5,1632,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2015,Minneapolis,any_college_pct,64.3,1753,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2016,Minneapolis,any_college_pct,62.4,1902,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2017,Minneapolis,any_college_pct,64.1,1928,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2018,Minneapolis,any_college_pct,61.0,2154,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2019,Minneapolis,any_college_pct,57.6,2290,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2020,Minneapolis,any_college_pct,51.3,2253,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2021,Minneapolis,any_college_pct,55.5,2004,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2022,Minneapolis,any_college_pct,57.4,2141,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2023,Minneapolis,any_college_pct,60.1,1955,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2024,Minneapolis,any_college_pct,60.3,2089,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2007,St. Paul,any_college_pct,56.6,2281,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2008,St. Paul,any_college_pct,59.7,2287,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2009,St. Paul,any_college_pct,59.6,2415,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2010,St. Paul,any_college_pct,61.7,2325,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2011,St. Paul,any_college_pct,62.4,2315,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2012,St. Paul,any_college_pct,63.0,2214,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2013,St. Paul,any_college_pct,60.6,2393,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2014,St. Paul,any_college_pct,59.7,2290,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2015,St. Paul,any_college_pct,60.1,2203,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2016,St. Paul,any_college_pct,61.6,2231,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2017,St. Paul,any_college_pct,59.0,2226,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2018,St. Paul,any_college_pct,57.1,2287,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2019,St. Paul,any_college_pct,57.1,2351,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2020,St. Paul,any_college_pct,52.0,2356,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2021,St. Paul,any_college_pct,55.3,2133,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2022,St. Paul,any_college_pct,52.7,2295,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2023,St. Paul,any_college_pct,54.8,2122,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2024,St. Paul,any_college_pct,55.8,2201,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2007,First-ring suburbs,any_college_pct,72.6,6713,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2008,First-ring suburbs,any_college_pct,74.8,6801,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2009,First-ring suburbs,any_college_pct,76.6,6555,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2010,First-ring suburbs,any_college_pct,75.8,6743,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2011,First-ring suburbs,any_college_pct,74.5,6723,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2012,First-ring suburbs,any_college_pct,74.3,6653,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2013,First-ring suburbs,any_college_pct,74.8,6853,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2014,First-ring suburbs,any_college_pct,74.2,6851,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2015,First-ring suburbs,any_college_pct,73.5,6790,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2016,First-ring suburbs,any_college_pct,71.7,6717,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2017,First-ring suburbs,any_college_pct,72.7,6609,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2018,First-ring suburbs,any_college_pct,70.9,6882,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2019,First-ring suburbs,any_college_pct,69.8,7139,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2020,First-ring suburbs,any_college_pct,64.0,6948,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2021,First-ring suburbs,any_college_pct,64.7,6788,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2022,First-ring suburbs,any_college_pct,63.4,7229,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2023,First-ring suburbs,any_college_pct,64.3,7094,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2024,First-ring suburbs,any_college_pct,65.9,6987,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2007,Second-ring suburbs,any_college_pct,75.6,13656,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2008,Second-ring suburbs,any_college_pct,76.6,14154,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2009,Second-ring suburbs,any_college_pct,77.1,13917,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2010,Second-ring suburbs,any_college_pct,77.2,14022,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2011,Second-ring suburbs,any_college_pct,77.4,14067,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2012,Second-ring suburbs,any_college_pct,78.4,14000,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2013,Second-ring suburbs,any_college_pct,76.9,14179,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2014,Second-ring suburbs,any_college_pct,77.1,14001,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2015,Second-ring suburbs,any_college_pct,76.2,13917,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2016,Second-ring suburbs,any_college_pct,77.1,13612,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2017,Second-ring suburbs,any_college_pct,76.0,13846,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2018,Second-ring suburbs,any_college_pct,74.7,14475,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2019,Second-ring suburbs,any_college_pct,75.0,14700,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2020,Second-ring suburbs,any_college_pct,72.6,14337,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2021,Second-ring suburbs,any_college_pct,71.9,14653,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2022,Second-ring suburbs,any_college_pct,70.5,15133,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2023,Second-ring suburbs,any_college_pct,72.7,15242,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2024,Second-ring suburbs,any_college_pct,71.2,15279,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2007,Statewide,any_college_pct,68.5,59855,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2008,Statewide,any_college_pct,69.4,60826,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2009,Statewide,any_college_pct,70.3,59623,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2010,Statewide,any_college_pct,70.4,59641,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2011,Statewide,any_college_pct,69.4,59292,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2012,Statewide,any_college_pct,70.5,57533,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2013,Statewide,any_college_pct,70.5,58308,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2014,Statewide,any_college_pct,69.7,57457,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2015,Statewide,any_college_pct,69.2,58006,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2016,Statewide,any_college_pct,69.2,57991,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2017,Statewide,any_college_pct,68.5,58377,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2018,Statewide,any_college_pct,67.2,59784,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2019,Statewide,any_college_pct,66.2,61218,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2020,Statewide,any_college_pct,62.2,60600,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2021,Statewide,any_college_pct,62.0,60404,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2022,Statewide,any_college_pct,60.8,62848,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2023,Statewide,any_college_pct,61.9,62199,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2024,Statewide,any_college_pct,61.4,63169,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/enrollment
+2007,Minneapolis,bachelors_earned_pct,33.6,1883,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2008,Minneapolis,bachelors_earned_pct,36.7,1866,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2009,Minneapolis,bachelors_earned_pct,38.5,1701,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2010,Minneapolis,bachelors_earned_pct,34.5,1697,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2011,Minneapolis,bachelors_earned_pct,36.5,1576,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2012,Minneapolis,bachelors_earned_pct,40.2,1509,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2013,Minneapolis,bachelors_earned_pct,37.4,1602,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2014,Minneapolis,bachelors_earned_pct,36.2,1632,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2015,Minneapolis,bachelors_earned_pct,33.7,1753,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2016,Minneapolis,bachelors_earned_pct,31.9,1902,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2017,Minneapolis,bachelors_earned_pct,32.6,1928,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2018,Minneapolis,bachelors_earned_pct,31.7,2154,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2007,St. Paul,bachelors_earned_pct,30.9,2281,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2008,St. Paul,bachelors_earned_pct,30.3,2287,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2009,St. Paul,bachelors_earned_pct,27.8,2415,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2010,St. Paul,bachelors_earned_pct,30.8,2325,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2011,St. Paul,bachelors_earned_pct,28.7,2315,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2012,St. Paul,bachelors_earned_pct,30.5,2214,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2013,St. Paul,bachelors_earned_pct,29.9,2393,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2014,St. Paul,bachelors_earned_pct,29.8,2290,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2015,St. Paul,bachelors_earned_pct,29.3,2203,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2016,St. Paul,bachelors_earned_pct,30.2,2231,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2017,St. Paul,bachelors_earned_pct,28.5,2226,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2018,St. Paul,bachelors_earned_pct,25.9,2287,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2007,First-ring suburbs,bachelors_earned_pct,51.6,6713,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2008,First-ring suburbs,bachelors_earned_pct,53.3,6801,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2009,First-ring suburbs,bachelors_earned_pct,52.7,6555,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2010,First-ring suburbs,bachelors_earned_pct,51.2,6743,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2011,First-ring suburbs,bachelors_earned_pct,51.0,6723,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2012,First-ring suburbs,bachelors_earned_pct,50.0,6653,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2013,First-ring suburbs,bachelors_earned_pct,49.3,6853,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2014,First-ring suburbs,bachelors_earned_pct,48.0,6851,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2015,First-ring suburbs,bachelors_earned_pct,48.7,6790,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2016,First-ring suburbs,bachelors_earned_pct,46.0,6717,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2017,First-ring suburbs,bachelors_earned_pct,46.4,6609,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2018,First-ring suburbs,bachelors_earned_pct,44.8,6882,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2007,Second-ring suburbs,bachelors_earned_pct,53.1,13656,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2008,Second-ring suburbs,bachelors_earned_pct,53.9,14154,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2009,Second-ring suburbs,bachelors_earned_pct,53.5,13917,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2010,Second-ring suburbs,bachelors_earned_pct,54.1,14022,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2011,Second-ring suburbs,bachelors_earned_pct,53.5,14067,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2012,Second-ring suburbs,bachelors_earned_pct,55.6,14000,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2013,Second-ring suburbs,bachelors_earned_pct,53.7,14179,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2014,Second-ring suburbs,bachelors_earned_pct,54.4,14001,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2015,Second-ring suburbs,bachelors_earned_pct,54.2,13917,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2016,Second-ring suburbs,bachelors_earned_pct,53.4,13612,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2017,Second-ring suburbs,bachelors_earned_pct,53.1,13846,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2018,Second-ring suburbs,bachelors_earned_pct,50.7,14475,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2007,Statewide,bachelors_earned_pct,42.5,59855,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2008,Statewide,bachelors_earned_pct,43.2,60826,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2009,Statewide,bachelors_earned_pct,42.4,59623,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2010,Statewide,bachelors_earned_pct,42.9,59641,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2011,Statewide,bachelors_earned_pct,42.1,59292,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2012,Statewide,bachelors_earned_pct,43.4,57533,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2013,Statewide,bachelors_earned_pct,43.5,58308,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2014,Statewide,bachelors_earned_pct,43.0,57457,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2015,Statewide,bachelors_earned_pct,42.7,58006,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2016,Statewide,bachelors_earned_pct,41.6,57991,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2017,Statewide,bachelors_earned_pct,41.7,58377,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2018,Statewide,bachelors_earned_pct,39.8,59784,high school class,https://sleds.mn.gov/p20-reports/sleds/data-extracts/completing-college
+2019,Minneapolis,mca_math_proficient_pct,42.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE087426
+2019,St. Paul,mca_math_proficient_pct,32.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE087426
+2019,Statewide,mca_math_proficient_pct,55.0,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE087426
+2019,Minneapolis,mca_reading_proficient_pct,46.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE087427
+2019,St. Paul,mca_reading_proficient_pct,39.5,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE087427
+2019,Statewide,mca_reading_proficient_pct,59.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE087427
+2021,Minneapolis,mca_math_proficient_pct,35.5,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD046301
+2021,St. Paul,mca_math_proficient_pct,21.4,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD046301
+2021,Statewide,mca_math_proficient_pct,44.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD046301
+2021,Minneapolis,mca_reading_proficient_pct,45.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD046302
+2021,St. Paul,mca_reading_proficient_pct,33.3,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD046302
+2021,Statewide,mca_reading_proficient_pct,52.5,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD046302
+2022,Minneapolis,mca_math_proficient_pct,33.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD069572
+2022,St. Paul,mca_math_proficient_pct,25.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD069572
+2022,Statewide,mca_math_proficient_pct,44.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD069572
+2022,Minneapolis,mca_reading_proficient_pct,42.4,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD069577
+2022,St. Paul,mca_reading_proficient_pct,34.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD069577
+2022,Statewide,mca_reading_proficient_pct,51.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD069577
+2023,Minneapolis,mca_math_proficient_pct,35.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD082118
+2023,St. Paul,mca_math_proficient_pct,25.6,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD082118
+2023,Statewide,mca_math_proficient_pct,45.5,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD082118
+2023,Minneapolis,mca_reading_proficient_pct,41.4,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD082119
+2023,St. Paul,mca_reading_proficient_pct,33.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD082119
+2023,Statewide,mca_reading_proficient_pct,49.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD082119
+2024,Minneapolis,mca_math_proficient_pct,34.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD084808
+2024,St. Paul,mca_math_proficient_pct,25.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD084808
+2024,Statewide,mca_math_proficient_pct,45.5,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD084808
+2024,Minneapolis,mca_reading_proficient_pct,40.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD084805
+2024,St. Paul,mca_reading_proficient_pct,34.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD084805
+2024,Statewide,mca_reading_proficient_pct,49.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD084805
+2025,Minneapolis,mca_math_proficient_pct,35.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD087031
+2025,St. Paul,mca_math_proficient_pct,26.6,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD087031
+2025,Statewide,mca_math_proficient_pct,45.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD087031
+2025,Minneapolis,mca_reading_proficient_pct,40.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD087032
+2025,St. Paul,mca_reading_proficient_pct,34.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD087032
+2025,Statewide,mca_reading_proficient_pct,49.6,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD087032
+2026,Minneapolis,mca_math_proficient_pct,37.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD100279
+2026,St. Paul,mca_math_proficient_pct,27.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD100279
+2026,Statewide,mca_math_proficient_pct,44.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD100279
+2026,Minneapolis,mca_reading_proficient_pct,41.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD100282
+2026,St. Paul,mca_reading_proficient_pct,34.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD100282
+2026,Statewide,mca_reading_proficient_pct,48.6,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD100282
+2015,Minneapolis,mca_math_proficient_pct,44.5,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=023345
+2015,St. Paul,mca_math_proficient_pct,37.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=023345
+2015,Statewide,mca_math_proficient_pct,60.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=023345
+2016,Minneapolis,mca_math_proficient_pct,43.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE058127
+2016,St. Paul,mca_math_proficient_pct,36.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE058127
+2016,Statewide,mca_math_proficient_pct,59.4,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE058127
+2017,Minneapolis,mca_math_proficient_pct,42.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE071900
+2017,St. Paul,mca_math_proficient_pct,35.0,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE071900
+2017,Statewide,mca_math_proficient_pct,58.6,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE071900
+2018,Minneapolis,mca_math_proficient_pct,42.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE074781
+2018,St. Paul,mca_math_proficient_pct,32.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE074781
+2018,Statewide,mca_math_proficient_pct,57.0,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE074781
+2015,Minneapolis,mca_reading_proficient_pct,41.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=023349
+2015,St. Paul,mca_reading_proficient_pct,37.4,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=023349
+2015,Statewide,mca_reading_proficient_pct,59.4,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=023349
+2016,Minneapolis,mca_reading_proficient_pct,42.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE058130
+2016,St. Paul,mca_reading_proficient_pct,38.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE058130
+2016,Statewide,mca_reading_proficient_pct,59.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE058130
+2017,Minneapolis,mca_reading_proficient_pct,43.3,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE071904
+2017,St. Paul,mca_reading_proficient_pct,37.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE071904
+2017,Statewide,mca_reading_proficient_pct,60.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE071904
+2018,Minneapolis,mca_reading_proficient_pct,44.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE074777
+2018,St. Paul,mca_reading_proficient_pct,38.4,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE074777
+2018,Statewide,mca_reading_proficient_pct,59.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE074777
+2015,Minneapolis,mca_science_proficient_pct,36.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=023353
+2015,St. Paul,mca_science_proficient_pct,29.3,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=023353
+2015,Statewide,mca_science_proficient_pct,53.0,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=023353
+2016,Minneapolis,mca_science_proficient_pct,35.0,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE058131
+2016,St. Paul,mca_science_proficient_pct,31.6,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE058131
+2016,Statewide,mca_science_proficient_pct,54.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE058131
+2017,Minneapolis,mca_science_proficient_pct,34.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE071908
+2017,St. Paul,mca_science_proficient_pct,31.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE071908
+2017,Statewide,mca_science_proficient_pct,53.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE071908
+2018,Minneapolis,mca_science_proficient_pct,33.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE074785
+2018,St. Paul,mca_science_proficient_pct,29.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE074785
+2018,Statewide,mca_science_proficient_pct,51.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE074785
+2019,Minneapolis,mca_science_proficient_pct,36.6,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE087428
+2019,St. Paul,mca_science_proficient_pct,29.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE087428
+2019,Statewide,mca_science_proficient_pct,50.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE087428
+2021,Minneapolis,mca_science_proficient_pct,36.5,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD046303
+2021,St. Paul,mca_science_proficient_pct,23.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD046303
+2021,Statewide,mca_science_proficient_pct,43.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD046303
+2022,Minneapolis,mca_science_proficient_pct,33.4,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD069575
+2022,St. Paul,mca_science_proficient_pct,25.1,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD069575
+2022,Statewide,mca_science_proficient_pct,41.3,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD069575
+2023,Minneapolis,mca_science_proficient_pct,31.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD082117
+2023,St. Paul,mca_science_proficient_pct,23.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD082117
+2023,Statewide,mca_science_proficient_pct,39.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD082117
+2024,Minneapolis,mca_science_proficient_pct,31.8,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD084806
+2024,St. Paul,mca_science_proficient_pct,25.4,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD084806
+2024,Statewide,mca_science_proficient_pct,39.6,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD084806
+2025,Minneapolis,mca_science_proficient_pct,22.9,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD097407
+2025,St. Paul,mca_science_proficient_pct,17.6,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD097407
+2025,Statewide,mca_science_proficient_pct,26.2,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD097407
+2026,Minneapolis,mca_science_proficient_pct,21.7,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD100283
+2026,St. Paul,mca_science_proficient_pct,19.0,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD100283
+2026,Statewide,mca_science_proficient_pct,25.5,,spring test year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD100283
+2008,Minneapolis,act_took_before_graduating_pct,54.6,1866,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2008,Minneapolis,act_mean_composite,20.55,1866,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2009,Minneapolis,act_took_before_graduating_pct,61.4,1701,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2009,Minneapolis,act_mean_composite,21.03,1701,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2010,Minneapolis,act_took_before_graduating_pct,58.7,1697,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2010,Minneapolis,act_mean_composite,20.87,1697,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2011,Minneapolis,act_took_before_graduating_pct,61.1,1576,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2011,Minneapolis,act_mean_composite,21.2,1576,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2012,Minneapolis,act_took_before_graduating_pct,62.5,1509,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2012,Minneapolis,act_mean_composite,21.51,1509,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2013,Minneapolis,act_took_before_graduating_pct,65.2,1602,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2013,Minneapolis,act_mean_composite,21.14,1602,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2014,Minneapolis,act_took_before_graduating_pct,71.9,1632,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2014,Minneapolis,act_mean_composite,20.93,1632,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2015,Minneapolis,act_took_before_graduating_pct,75.5,1753,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2015,Minneapolis,act_mean_composite,20.39,1753,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2016,Minneapolis,act_took_before_graduating_pct,77.7,1902,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2016,Minneapolis,act_mean_composite,20.19,1902,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2017,Minneapolis,act_took_before_graduating_pct,77.5,1928,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2017,Minneapolis,act_mean_composite,20.01,1928,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2018,Minneapolis,act_took_before_graduating_pct,79.4,2154,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2018,Minneapolis,act_mean_composite,20.14,2154,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2019,Minneapolis,act_took_before_graduating_pct,78.0,2290,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2019,Minneapolis,act_mean_composite,19.35,2290,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2020,Minneapolis,act_took_before_graduating_pct,75.8,2253,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2020,Minneapolis,act_mean_composite,19.67,2253,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2021,Minneapolis,act_took_before_graduating_pct,33.6,2004,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2021,Minneapolis,act_mean_composite,22.53,2004,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2022,Minneapolis,act_took_before_graduating_pct,49.9,2141,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2022,Minneapolis,act_mean_composite,21.47,2141,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2023,Minneapolis,act_took_before_graduating_pct,60.3,1955,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2023,Minneapolis,act_mean_composite,21.22,1955,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2024,Minneapolis,act_took_before_graduating_pct,58.8,2089,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2024,Minneapolis,act_mean_composite,21.18,2089,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2008,St. Paul,act_took_before_graduating_pct,52.6,2287,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2008,St. Paul,act_mean_composite,19.78,2287,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2009,St. Paul,act_took_before_graduating_pct,53.5,2415,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2009,St. Paul,act_mean_composite,19.88,2415,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2010,St. Paul,act_took_before_graduating_pct,55.4,2325,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2010,St. Paul,act_mean_composite,19.82,2325,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2011,St. Paul,act_took_before_graduating_pct,60.3,2315,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2011,St. Paul,act_mean_composite,19.68,2315,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2012,St. Paul,act_took_before_graduating_pct,60.4,2214,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2012,St. Paul,act_mean_composite,19.64,2214,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2013,St. Paul,act_took_before_graduating_pct,59.0,2393,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2013,St. Paul,act_mean_composite,19.62,2393,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2014,St. Paul,act_took_before_graduating_pct,64.1,2290,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2014,St. Paul,act_mean_composite,19.54,2290,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2015,St. Paul,act_took_before_graduating_pct,66.9,2203,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2015,St. Paul,act_mean_composite,18.93,2203,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2016,St. Paul,act_took_before_graduating_pct,70.1,2231,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2016,St. Paul,act_mean_composite,19.0,2231,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2017,St. Paul,act_took_before_graduating_pct,77.4,2226,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2017,St. Paul,act_mean_composite,19.15,2226,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2018,St. Paul,act_took_before_graduating_pct,79.9,2287,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2018,St. Paul,act_mean_composite,18.66,2287,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2019,St. Paul,act_took_before_graduating_pct,81.0,2351,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2019,St. Paul,act_mean_composite,18.25,2351,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2020,St. Paul,act_took_before_graduating_pct,80.3,2356,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2020,St. Paul,act_mean_composite,18.3,2356,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2021,St. Paul,act_took_before_graduating_pct,75.6,2133,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2021,St. Paul,act_mean_composite,18.91,2133,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2022,St. Paul,act_took_before_graduating_pct,48.1,2295,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2022,St. Paul,act_mean_composite,18.88,2295,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2023,St. Paul,act_took_before_graduating_pct,59.4,2122,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2023,St. Paul,act_mean_composite,18.69,2122,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2024,St. Paul,act_took_before_graduating_pct,54.7,2201,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2024,St. Paul,act_mean_composite,18.73,2201,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2008,Statewide,act_took_before_graduating_pct,59.4,60826,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2008,Statewide,act_mean_composite,22.59,60826,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2009,Statewide,act_took_before_graduating_pct,61.5,59623,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2009,Statewide,act_mean_composite,22.7,59623,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2010,Statewide,act_took_before_graduating_pct,60.9,59641,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2010,Statewide,act_mean_composite,22.85,59641,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2011,Statewide,act_took_before_graduating_pct,62.1,59292,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2011,Statewide,act_mean_composite,22.9,59292,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2012,Statewide,act_took_before_graduating_pct,63.4,57533,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2012,Statewide,act_mean_composite,22.84,57533,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2013,Statewide,act_took_before_graduating_pct,65.0,58308,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2013,Statewide,act_mean_composite,22.83,58308,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2014,Statewide,act_took_before_graduating_pct,67.2,57457,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2014,Statewide,act_mean_composite,22.87,57457,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2015,Statewide,act_took_before_graduating_pct,67.4,58006,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2015,Statewide,act_mean_composite,22.83,58006,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2016,Statewide,act_took_before_graduating_pct,81.8,57991,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2016,Statewide,act_mean_composite,21.72,57991,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2017,Statewide,act_took_before_graduating_pct,83.3,58377,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2017,Statewide,act_mean_composite,21.74,58377,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2018,Statewide,act_took_before_graduating_pct,85.1,59784,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2018,Statewide,act_mean_composite,21.45,59784,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2019,Statewide,act_took_before_graduating_pct,81.7,61218,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2019,Statewide,act_mean_composite,21.33,61218,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2020,Statewide,act_took_before_graduating_pct,79.7,60600,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2020,Statewide,act_mean_composite,21.3,60600,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2021,Statewide,act_took_before_graduating_pct,61.2,60404,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2021,Statewide,act_mean_composite,21.52,60404,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2022,Statewide,act_took_before_graduating_pct,63.5,62848,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2022,Statewide,act_mean_composite,20.9,62848,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2023,Statewide,act_took_before_graduating_pct,65.2,62199,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2023,Statewide,act_mean_composite,20.72,62199,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2024,Statewide,act_took_before_graduating_pct,64.4,63169,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2024,Statewide,act_mean_composite,20.55,63169,high school class,https://sleds.mn.gov/ (High school academics: ACT before graduation)
+2015,Minneapolis,four_year_grad_rate_pct,65.1,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE035044
+2015,St. Paul,four_year_grad_rate_pct,74.4,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE035044
+2015,Statewide,four_year_grad_rate_pct,82.1,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE035044
+2016,Minneapolis,four_year_grad_rate_pct,67.3,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE060158
+2016,St. Paul,four_year_grad_rate_pct,75.9,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE060158
+2016,Statewide,four_year_grad_rate_pct,82.5,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE060158
+2017,Minneapolis,four_year_grad_rate_pct,66.0,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE073554
+2017,St. Paul,four_year_grad_rate_pct,76.8,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE073554
+2017,Statewide,four_year_grad_rate_pct,82.7,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE073554
+2018,Minneapolis,four_year_grad_rate_pct,69.2,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE086476
+2018,St. Paul,four_year_grad_rate_pct,74.9,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE086476
+2018,Statewide,four_year_grad_rate_pct,83.2,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE086476
+2019,Minneapolis,four_year_grad_rate_pct,75.3,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE031954
+2019,St. Paul,four_year_grad_rate_pct,76.3,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE031954
+2019,Statewide,four_year_grad_rate_pct,83.7,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=MDE031954
+2020,Minneapolis,four_year_grad_rate_pct,74.2,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD045722
+2020,St. Paul,four_year_grad_rate_pct,78.3,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD045722
+2020,Statewide,four_year_grad_rate_pct,83.8,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD045722
+2021,Minneapolis,four_year_grad_rate_pct,73.7,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD058789
+2021,St. Paul,four_year_grad_rate_pct,76.0,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD058789
+2021,Statewide,four_year_grad_rate_pct,83.3,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD058789
+2022,Minneapolis,four_year_grad_rate_pct,76.7,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD081316
+2022,St. Paul,four_year_grad_rate_pct,75.5,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD081316
+2022,Statewide,four_year_grad_rate_pct,83.5,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD081316
+2023,Minneapolis,four_year_grad_rate_pct,67.8,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD083760
+2023,St. Paul,four_year_grad_rate_pct,68.5,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD083760
+2023,Statewide,four_year_grad_rate_pct,83.3,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD083760
+2024,Minneapolis,four_year_grad_rate_pct,73.8,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD086321
+2024,St. Paul,four_year_grad_rate_pct,76.5,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD086321
+2024,Statewide,four_year_grad_rate_pct,84.2,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD086321
+2025,Minneapolis,four_year_grad_rate_pct,72.8,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD099021
+2025,St. Paul,four_year_grad_rate_pct,77.8,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD099021
+2025,Statewide,four_year_grad_rate_pct,84.9,,graduating cohort year,https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&RevisionSelectionMethod=latestReleased&Rendition=primary&dDocName=PROD099021
