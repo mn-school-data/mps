@@ -302,7 +302,7 @@ def x_labels(xs, xpos, every=1):
             for k, x in enumerate(xs) if k % every == 0]
 
 
-def _line_chart(label, series, fmt, tipfmt=None, y0=None, refline=None, every=1, ytitle=None, above=None, below=None, xname="FY"):
+def _line_chart(label, series, fmt, tipfmt=None, y0=None, refline=None, every=1, ytitle=None, above=None, below=None, xname="FY", end_labels=True):
     """series: [{name, points: {x: y}, dashed_from: x or None}]
     ytitle: what the vertical axis counts, drawn above the plot; above/below: notes inside the plot
     saying what values above and below the reference line mean."""
@@ -349,7 +349,7 @@ def _line_chart(label, series, fmt, tipfmt=None, y0=None, refline=None, every=1,
     ends.sort()
     for j in range(1, len(ends)):
         ends[j][0] = max(ends[j][0], ends[j - 1][0] + 15)
-    for y, name, x in ([] if NARROW else ends):
+    for y, name, x in ([] if NARROW or not end_labels else ends):
         g.append(f'<text class="end-label" x="{x + 9:.1f}" y="{y + 4:.1f}">{html.escape(name)}</text>')
     # hover columns
     step = (W - ML - MR) / max(1, len(xs) - 1)
@@ -1781,11 +1781,21 @@ def build(src, out):
             "Grades 3 to 8 and 10 [1]. 2015-2018 count the MCA only; from 2019 MTAS and Alternate MCA are included. "
             "2026 is the first year of a new reading test (MCA-IV), so the last step partly reflects the new test.")
         if "mca_science_proficient_pct" in tr:
-            ocharts["science"] = chart_block(line_chart("Percent of students proficient in science, 2015 to 2026",
-                oseries("mca_science_proficient_pct", three), pct, y0=0, ytitle="students meeting or exceeding standards, % of those tested",
-                xname="Spring ", wide_mr=110), "Science proficiency, grades 5, 8 and high school",
+            NEWSCI = 2025  # first year of the new science test; its years are drawn as separate, differently coloured lines
+            NEWCOL = {"Minneapolis": "var(--s4)", "St. Paul": "var(--s6)", "Statewide": "var(--s1)"}
+            sci = []
+            for k in three:
+                pts_ = tr["mca_science_proficient_pct"].get(k, {})
+                sci.append({"name": f"{k}, MCA-III (to 2024)", "color": ENT[k], "points": {y: v for y, v in pts_.items() if y < NEWSCI}})
+            for k in three:
+                pts_ = tr["mca_science_proficient_pct"].get(k, {})
+                sci.append({"name": f"{k}, new test (2025 on)", "color": NEWCOL[k], "points": {y: v for y, v in pts_.items() if y >= NEWSCI}})
+            ocharts["science"] = chart_block(line_chart("Percent of students proficient in science, 2015 to 2026, old and new tests",
+                [x for x in sci if x["points"]], pct, y0=0, ytitle="students meeting or exceeding standards, % of those tested",
+                xname="Spring ", end_labels=False), "Science proficiency, grades 5, 8 and high school",
                 "Science is tested in grades 5 and 8 and once in high school [1]. 2015-2018 count the MCA only; from 2019 MTAS and "
-                "Alternate MCA are included. A new science test started in 2025, so 2025 and 2026 are not comparable with earlier years.")
+                "Alternate MCA are included. A new science test started in 2025, so the lines break there: the new test's results "
+                "are drawn in different colors and are not comparable with earlier years.")
         ocharts["act_took"] = chart_block(line_chart("Percent of graduates who took the ACT before graduating, classes of 2008 to 2024",
             oseries("act_took_before_graduating_pct", three), pct, y0=0, ytitle="took the ACT before graduating, % of high school graduates",
             xname="Class of ", wide_mr=110), "Who takes the ACT",
