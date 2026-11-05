@@ -1,0 +1,25 @@
+Minneapolis Public Schools Analysis (https://mn-school-data.github.io/mps/)
+
+Content license
+---------------
+The text, charts and compiled data tables in this repository and on the site
+are licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may share and adapt them for any purpose, including commercially, if you
+give credit as "Minneapolis Public Schools Analysis" with a link to
+https://mn-school-data.github.io/mps/, link to the license, and prominently
+indicate any changes. Public data from the original sources remains subject to
+those sources' terms.
+
+Code license
+------------
+The scripts in scripts/ and .github/ are free software: you can redistribute
+them and/or modify them under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version. They are distributed in the hope that they
+will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See COPYING for the full
+text of the GNU General Public License, version 3.
+
+Copyright (C) 2026 mn-school-data

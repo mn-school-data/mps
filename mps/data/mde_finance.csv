@@ -1,0 +1,34 @@
+fiscal_year,metric,value,units,source_url
+2019,MPS grand total revenue all funds per pupil (MDE Profiles),20188,USD per pupil (ADM served + tuitioned out),https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,State total/average grand total revenue all funds per pupil (MDE Profiles),15701,USD per pupil,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,MPS rank in revenue per pupil (most to least),32,rank,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2021,MPS general fund total revenues,603733523,USD,https://resources.finalsite.net/images/v1702331738/mplsk12mnus/u6ldfzizerglg4o1lh7f/FinancialStatements2022.pdf
+2021,MPS general fund total expenditures,584833448,USD,https://resources.finalsite.net/images/v1702331738/mplsk12mnus/u6ldfzizerglg4o1lh7f/FinancialStatements2022.pdf
+2022,MPS general fund total revenues,643209266,USD,https://resources.finalsite.net/images/v1702331738/mplsk12mnus/u6ldfzizerglg4o1lh7f/FinancialStatements2022.pdf
+2022,MPS general fund total expenditures,648092852,USD,https://resources.finalsite.net/images/v1702331738/mplsk12mnus/u6ldfzizerglg4o1lh7f/FinancialStatements2022.pdf
+2022,MPS general fund unassigned fund balance,53613747,USD,https://resources.finalsite.net/images/v1702331738/mplsk12mnus/u6ldfzizerglg4o1lh7f/FinancialStatements2022.pdf
+2022,MPS general fund unassigned as % of current-year budgeted expenditures,8.3,percent,https://resources.finalsite.net/images/v1702331738/mplsk12mnus/u6ldfzizerglg4o1lh7f/FinancialStatements2022.pdf
+2022,MPS general fund assigned fund balance,68347003,USD,https://resources.finalsite.net/images/v1702331738/mplsk12mnus/u6ldfzizerglg4o1lh7f/FinancialStatements2022.pdf
+2022,MPS general fund restricted fund balance,17698879,USD,https://resources.finalsite.net/images/v1702331738/mplsk12mnus/u6ldfzizerglg4o1lh7f/FinancialStatements2022.pdf
+2022,MPS general fund total fund balance,144954225,USD,https://resources.finalsite.net/images/v1702331738/mplsk12mnus/u6ldfzizerglg4o1lh7f/FinancialStatements2022.pdf
+2023,MPS general fund total revenues,629681176,USD,https://resources.finalsite.net/images/v1705953192/mplsk12mnus/znx5sngpvozpd1khvmjb/FinancialStatements2023.pdf
+2023,MPS general fund total expenditures,640898978,USD,https://resources.finalsite.net/images/v1705953192/mplsk12mnus/znx5sngpvozpd1khvmjb/FinancialStatements2023.pdf
+2023,MPS general fund unassigned fund balance,60025541,USD,https://resources.finalsite.net/images/v1705953192/mplsk12mnus/znx5sngpvozpd1khvmjb/FinancialStatements2023.pdf
+2023,MPS general fund unassigned as % of subsequent-year budgeted expenditures,8.7,percent,https://resources.finalsite.net/images/v1705953192/mplsk12mnus/znx5sngpvozpd1khvmjb/FinancialStatements2023.pdf
+2023,MPS general fund assigned fund balance,54915232,USD,https://resources.finalsite.net/images/v1705953192/mplsk12mnus/znx5sngpvozpd1khvmjb/FinancialStatements2023.pdf
+2023,MPS general fund restricted fund balance,22386757,USD,https://resources.finalsite.net/images/v1705953192/mplsk12mnus/znx5sngpvozpd1khvmjb/FinancialStatements2023.pdf
+2023,MPS general fund total fund balance,143285451,USD,https://resources.finalsite.net/images/v1705953192/mplsk12mnus/znx5sngpvozpd1khvmjb/FinancialStatements2023.pdf
+2023,MPS total revenue all funds (NCES F-33),795276000,USD,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,MPS total revenue per student (NCES),27231,USD per student,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,MPS total expenditures per student (NCES),27904,USD per student,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2023,MPS current expenditures per student (NCES),21839,USD per student,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2721240
+2024,MPS base general education revenue per adjusted pupil (forecast),13546,USD per APU (forecast),https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Statewide base general education revenue per adjusted pupil (forecast),11013,USD per APU (forecast),https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,MPS base special education revenue per adjusted pupil (forecast),2442,USD per APU (forecast),https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Statewide base special education revenue per adjusted pupil (forecast),2023,USD per APU (forecast),https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2025,MPS base general education revenue per adjusted pupil (forecast),13559,USD per APU (forecast),https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2025,Statewide base general education revenue per adjusted pupil (forecast),11052,USD per APU (forecast),https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2021,MPS referendum revenue per adjusted pupil unit (estimate),1779,USD per APU,https://www.house.mn.gov/comm/docs/4IT5J1F670OEejNGVFoT2A.pdf
+2021,Statewide referendum revenue per adjusted pupil unit (estimate),768,USD per APU,https://www.house.mn.gov/comm/docs/4IT5J1F670OEejNGVFoT2A.pdf
+2021,MPS referendum market value per pupil,1528805,USD per APU,https://www.house.mn.gov/comm/docs/4IT5J1F670OEejNGVFoT2A.pdf
+2021,Statewide referendum market value per pupil,596412,USD per APU,https://www.house.mn.gov/comm/docs/4IT5J1F670OEejNGVFoT2A.pdf

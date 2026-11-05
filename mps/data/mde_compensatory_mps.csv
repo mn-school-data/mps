@@ -1,0 +1,17 @@
+fiscal_year,compensatory_revenue_usd,free_count,reduced_count,adjusted_count,enrollment,allowance_usd,status,mde_run_date,source_url
+2013,53381486.97,20595,1945,21567.5,34436,4809.0,final,07/02/13,https://pub.education.mn.gov/mfrreports/GENEDD/12-13/0001030000000000.pdf
+2014,56082283.47,21277,1916,22235.0,35261,4887.0,final,05/12/15,https://pub.education.mn.gov/mfrreports/GENEDD/13-14/0001030000000000.pdf
+2015,58293880.32,21812,1714,22669.0,36282,4992.0,final,04/21/16,https://pub.education.mn.gov/mfrreports/GENEDD/14-15/0001030000000000.pdf
+2016,59153739.06,21842,1729,22706.5,36915,5109.0,final,01/23/17,https://pub.education.mn.gov/mfrreports/GENEDD/15-16/0001030000000000.pdf
+2017,57250834.68,20865,2044,21887.0,36643,5228.0,final,01/25/18,https://pub.education.mn.gov/mfrreports/GENEDD/16-17/0001030000000000.pdf
+2018,57121917.51,20587,1979,21576.5,36510,5349.0,final,01/17/19,https://pub.education.mn.gov/mfrreports/GENEDD/17-18/0001030000000000.pdf
+2019,55077754.42,19704,2043,20725.5,36381,5473.0,final,02/19/20,https://pub.education.mn.gov/mfrreports/GENEDD/18-19/0001030000000000.pdf
+2020,50159257.39,17968,2264,19100.0,35561,5599.0,final,01/20/21,https://pub.education.mn.gov/mfrreports/GENEDD/19-20/0001030000000000.pdf
+2021,47787558.40,16853,2310,18008.0,34597,5728.0,final,02/17/22,https://pub.education.mn.gov/mfrreports/GENEDD/20-21/0001030000000000.pdf
+2022,44552463.93,15844,1744,16716.0,32838,5889.0,final,01/09/23,https://pub.education.mn.gov/mfrreports/GENEDD/21-22/0001030000000000.pdf
+2023,35248713.12,13038,1476,13776.0,30096,6024.0,final,01/25/24,https://pub.education.mn.gov/mfrreports/GENEDD/22-23/0001030000000000.pdf
+2024,47935452.99,15038,1693,15884.5,29204,6299.0,final,01/08/25,https://pub.education.mn.gov/mfrreports/GENEDD/23-24/0001030000000000.pdf
+2025,51285212.94,14679,1460,15409.0,29063,6442.0,final (includes hold-harmless to FY2024 pupil units),01/14/26,https://pub.education.mn.gov/mfrreports/GENEDD/24-25/0001030000000000.pdf
+2026,55673044.74,15412,1480,16152.0,29926,6642.0,preliminary (includes hold-harmless),10/13/26,https://pub.education.mn.gov/mfrreports/GENEDD/25-26/0001030000000000.pdf
+2027,53519501.63,12682,1246,13305.0,30053,7317.4,estimate (direct certification only; excludes separate FY27 hold-harmless amount),10/16/26,https://pub.education.mn.gov/mfrreports/GENEDD/26-27/0001030000000000.pdf
+2028,48139135.34,11755,1375,12442.5,29223,7144.0,estimate (MDE projection),10/20/26,https://pub.education.mn.gov/mfrreports/GENEDD/27-28/0001030000000000.pdf

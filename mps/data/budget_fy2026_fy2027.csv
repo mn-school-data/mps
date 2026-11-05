@@ -1,0 +1,108 @@
+fiscal_year,metric,value,units,basis,source_url
+2026,gf_revenue,703900000.0,USD,"budget (proposed 2025-06-03; adopted 2025-06-10 as Res. 2025-0027, adopted figures not seen)",https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 2 p.20
+2026,gf_expenditure,728400000.0,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 2 p.20
+2026,gf_revenue_minus_expenditure,-24500000.0,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 2 p.20
+2026,gf_planned_assigned_balance_use,11800000.0,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 3 p.20
+2026,gf_expense_reduction_carryover,5300000.0,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 3 p.20
+2026,gf_opeb_trust_reimbursement,8400000.0,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 3 p.20
+2026,gf_transfers_net,-1000000.0,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 3 p.20
+2026,gf_salaries_benefits,551335773,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 5 p.21
+2026,gf_purchased_services,115400000.0,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 5 p.22
+2026,allfunds_revenue,954100000.0,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 2 p.20
+2026,allfunds_expenditure,1049000000.0,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 2 p.20
+2026,budget_gap_closed,75000000.0,USD,budget (proposed 2025-06-03),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf p.8
+2026,property_tax_levy_pay2025_total,279107854.54,USD,certified levy (Dec 2024),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 6 p.22-23
+2025,gf_assigned_projected,22245136,USD,projection (June 2025 budget book),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 7 p.24
+2025,gf_unassigned_projected,57187907,USD,projection (June 2025 budget book),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 7 p.24
+2025,gf_assigned_plus_unassigned_projected,79433043,USD,projection (June 2025 budget book),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 7 p.24
+2026,gf_assigned_projected,11245136,USD,projection (June 2025 budget book),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 7 p.24
+2026,gf_unassigned_projected,56641921,USD,projection (June 2025 budget book),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 7 p.24
+2026,gf_assigned_plus_unassigned_projected,67887057,USD,projection (June 2025 budget book),https://resources.finalsite.net/images/v1748991242/mplsk12mnus/qqduushxosl2qwtlfya3/ProposedFiscalYear2025-26Budget_06032025.pdf Figure 7 p.24
+2026,oct1_k12_enrollment,28827,students,"preliminary (MPS budget site, fall 2025)",https://budget.mpschools.org/budget/enrollment_summary
+2026,special_ed_aid_recovery,10700000.0,USD,news,https://www.cbsnews.com/minnesota/news/minneapolis-public-school-budget-error/
+2027,budget_gap_projected_dec2025,30300000.0,USD,projection (news),https://www.startribune.com/budget-headache-worsens-for-minneapolis-public-schools-as-projected-deficit-grows/601580452
+2027,budget_gap_projected_feb2026,50500000.0,USD,projection (district),https://www.mpschools.org/departments/finance/budget/2026-27-budget-process
+2027,budget_gap_projected_may2026,39700000.0,USD,projection (news),https://www.fox9.com/news/minneapolis-schools-find-new-funding-budget-gap-shrinks-may-2026
+2027,budget_gap_at_adoption,37000000.0,USD,news,https://kstp.com/inside-your-schools/minneapolis-schools-prepare-final-vote-on-billion-dollar-budget-amid-deficit-concerns/
+2027,special_ed_aid_recovery,10800000.0,USD,news,https://www.cbsnews.com/minnesota/news/minneapolis-public-school-budget-error/
+2027,gf_revenue_projected_mar2026,719000000.0,USD,"projection (Twin Cities Documenters notes of Mar 2026 work session; secondary, not checked against slides)",https://twincities.documenters.org/assignments/minneapolis-board-of-education-work-session-19381/
+2026,gf_revenue_amended_jun2026,719925649,USD,"budget (2nd amendment, Res. 2026-0046, 2026-06-09; general operating + grants + special revenue)",https://meetings.boardbook.org/Documents/DownloadPDF/10286917?org=1807
+2026,gf_expenditure_amended_jun2026,729032388,USD,"budget (2nd amendment, 2026-06-09)",https://meetings.boardbook.org/Documents/DownloadPDF/10286917?org=1807
+2026,gf_transfers_amended_jun2026,-2446191,USD,"budget (2nd amendment, 2026-06-09)",https://meetings.boardbook.org/Documents/DownloadPDF/10286917?org=1807
+2026,gf_change_in_balance_amended_jun2026,-11552930,USD,"budget (2nd amendment, 2026-06-09)",https://meetings.boardbook.org/Documents/DownloadPDF/10286917?org=1807
+2026,state_sped_revenue_above_budget,17800000.0,USD,"budget (2nd amendment, 2026-06-09)",https://meetings.boardbook.org/Documents/DownloadPDF/10286917?org=1807
+2026,gf_revenue_lrfp_oct2025,701908832,USD,"budget as of LRFP Oct 28, 2025",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2026,gf_expenditure_lrfp_oct2025,722412646,USD,"budget as of LRFP Oct 28, 2025",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2026,gf_beginning_balance_expected_oct2025,140296510,USD,"preliminary (district, Oct 2025; audited FY2025 ending was 111,642,059)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2026,opeb_trust_draw_8_4M_not_taken,1,flag,"district (Sept 29, 2026 Finance Committee: CESO advised not to make the planned draws)",https://meetings.boardbook.org/Documents/DownloadPDF/14461005?org=1807
+2026,adm_prelim,28550,ADM,"preliminary (district, Jan 22, 2026; incl. Pre-K, ECSE, CAP)",https://meetings.boardbook.org/Documents/DownloadPDF/10298371?org=1807
+2026,pupil_units_prelim,30937,pupil units,"preliminary (district, Jan 22, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298371?org=1807
+2026,oct1_enrollment_prek12,30092,students,"district (Oct 1, 2025, incl. Pre-K, ECSE, CAP)",https://meetings.boardbook.org/Documents/DownloadPDF/10298371?org=1807
+2025,oct1_enrollment_prek12,30203,students,district,https://meetings.boardbook.org/Documents/DownloadPDF/10298371?org=1807
+2024,oct1_enrollment_prek12,29241,students,district,https://meetings.boardbook.org/Documents/DownloadPDF/10298371?org=1807
+2027,oct1_enrollment_prek12_projected,30683,students,"projection (district, Jan 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298371?org=1807
+2027,adm_projected,29895,ADM,"projection (district, Jan 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298371?org=1807
+2027,pupil_units_projected,32352,pupil units,"projection (district, Jan 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298371?org=1807
+2027,gf_revenue_adopted,737250678,USD,"budget (adopted 2026-06-09, Res. 2026-0036)",https://meetings.boardbook.org/Documents/DownloadPDF/10298769?org=1807
+2027,gf_expenditure_adopted,734664138,USD,budget (adopted 2026-06-09),https://meetings.boardbook.org/Documents/DownloadPDF/10298769?org=1807
+2027,gf_transfers_adopted,-2586540,USD,budget (adopted 2026-06-09),https://meetings.boardbook.org/Documents/DownloadPDF/10298769?org=1807
+2027,gf_fund_balance_use_adopted,0,USD,budget (adopted 2026-06-09),https://meetings.boardbook.org/Documents/DownloadPDF/10298769?org=1807
+2027,allfunds_revenue_adopted,1057825140,USD,budget (adopted 2026-06-09),https://meetings.boardbook.org/Documents/DownloadPDF/10298769?org=1807
+2027,allfunds_expenditure_adopted,1117715825,USD,budget (adopted 2026-06-09),https://meetings.boardbook.org/Documents/DownloadPDF/10298769?org=1807
+2027,gf_rev_local_budget,183050715,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_rev_property_tax_budget,173184748,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_rev_state_budget,500816241,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_rev_federal_budget,53383723,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_salaries_budget,421894764,USD,"budget (Aug 2026 monthly report; expenditure total 735,313,855)",https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_benefits_budget,156782972,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_purchased_services_budget,116755298,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_supplies_budget,36757036,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_exp_special_ed_instruction_budget,170203850,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_exp_regular_instruction_budget,277448837,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_exp_pupil_support_budget,104583702,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_exp_district_support_budget,52858278,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,gf_exp_administration_budget,26239249,USD,budget (Aug 2026 monthly report),https://meetings.boardbook.org/Documents/DownloadPDF/14461004?org=1807
+2027,budget_gap_jan2026_revenue,718771071,USD,"projection (district, Jan 22, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298371?org=1807
+2027,budget_gap_jan2026_expense,769246516,USD,"projection (district, Jan 22, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298371?org=1807
+2027,budget_gap_apr2026,39700000.0,USD,"projection (district, Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2027,lrfp_oct2025_surplus_deficit,-30256997,USD,"projection (status quo LRFP Oct 28, 2025; starts from a preliminary FY25 balance $28.7M above the audit)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2027,lrfp_oct2025_ending_balance,89535699,USD,"projection (status quo LRFP Oct 28, 2025)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2028,lrfp_oct2025_surplus_deficit,-63329120,USD,"projection (status quo LRFP Oct 28, 2025; starts from a preliminary FY25 balance $28.7M above the audit)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2028,lrfp_oct2025_ending_balance,26206579,USD,"projection (status quo LRFP Oct 28, 2025)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2029,lrfp_oct2025_surplus_deficit,-88516864,USD,"projection (status quo LRFP Oct 28, 2025; starts from a preliminary FY25 balance $28.7M above the audit)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2029,lrfp_oct2025_ending_balance,-62310286,USD,"projection (status quo LRFP Oct 28, 2025)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2030,lrfp_oct2025_surplus_deficit,-114298773,USD,"projection (status quo LRFP Oct 28, 2025; starts from a preliminary FY25 balance $28.7M above the audit)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2030,lrfp_oct2025_ending_balance,-176609059,USD,"projection (status quo LRFP Oct 28, 2025)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2031,lrfp_oct2025_surplus_deficit,-140725350,USD,"projection (status quo LRFP Oct 28, 2025; starts from a preliminary FY25 balance $28.7M above the audit)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2031,lrfp_oct2025_ending_balance,-317334409,USD,"projection (status quo LRFP Oct 28, 2025)",https://meetings.boardbook.org/Documents/DownloadPDF/10298169?org=1807
+2023,sped_state_expenditures,97179085,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2023 (FY2022 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2023,sped_transportation_costs,28439231,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2023 (FY2022 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2023,sped_cross_subsidy_reduction_aid,3470888,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2023 (FY2022 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2023,sped_net_state_aid_incl_cross_subsidy,70291286,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2023 (FY2022 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2024,sped_state_expenditures,101638338,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2024 (FY2023 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2024,sped_transportation_costs,20768457,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2024 (FY2023 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2024,sped_cross_subsidy_reduction_aid,21450024,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2024 (FY2023 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2024,sped_net_state_aid_incl_cross_subsidy,80311390,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2024 (FY2023 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2025,sped_state_expenditures,104132859,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2025 (FY2024 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2025,sped_transportation_costs,39395147,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2025 (FY2024 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2025,sped_cross_subsidy_reduction_aid,30745445,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2025 (FY2024 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2025,sped_net_state_aid_incl_cross_subsidy,108574073,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2025 (FY2024 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2026,sped_state_expenditures,117685372,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2026 estimate (FY2025 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2026,sped_transportation_costs,45483359,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2026 estimate (FY2025 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2026,sped_cross_subsidy_reduction_aid,34103473,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2026 estimate (FY2025 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2026,sped_net_state_aid_incl_cross_subsidy,133009583,USD,"district (Apr 28, 2026 Finance Committee; aid year FY2026 estimate (FY2025 data))",https://meetings.boardbook.org/Documents/DownloadPDF/10298656?org=1807
+2021,gf_unreserved_pct_of_exp_mps,23.6,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2021,gf_unreserved_pct_of_exp_stpaul,16.1,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2021,gf_unreserved_pct_of_exp_all_mn,23.0,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2022,gf_unreserved_pct_of_exp_mps,24.7,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2022,gf_unreserved_pct_of_exp_stpaul,20.3,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2022,gf_unreserved_pct_of_exp_all_mn,22.2,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2023,gf_unreserved_pct_of_exp_mps,22.9,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2023,gf_unreserved_pct_of_exp_stpaul,19.9,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2023,gf_unreserved_pct_of_exp_all_mn,21.0,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2024,gf_unreserved_pct_of_exp_mps,21.83,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2024,gf_unreserved_pct_of_exp_stpaul,21.77,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2024,gf_unreserved_pct_of_exp_all_mn,23.36,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2025,gf_unreserved_pct_of_exp_mps,14.81,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2025,gf_unreserved_pct_of_exp_stpaul,14.23,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807
+2025,gf_unreserved_pct_of_exp_all_mn,22.8,percent,"MDE fund balance trends via district (Apr 28, 2026)",https://meetings.boardbook.org/Documents/DownloadPDF/10298635?org=1807

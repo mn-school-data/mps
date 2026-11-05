@@ -1,0 +1,76 @@
+fiscal_year,metric,value,units,source_url
+2019,St. Paul ADM served plus tuitioned out,37930,pupils,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,St. Paul grand total revenue all funds per pupil,18966,USD per pupil,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,St. Paul revenue per pupil rank (most to least),54,rank,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Anoka-Hennepin ADM served plus tuitioned out,38473,pupils,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Anoka-Hennepin grand total revenue all funds per pupil,14875,USD per pupil,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Anoka-Hennepin revenue per pupil rank (most to least),258,rank,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Rochester ADM served plus tuitioned out,17780,pupils,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Rochester grand total revenue all funds per pupil,14861,USD per pupil,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Rochester revenue per pupil rank (most to least),260,rank,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Osseo ADM served plus tuitioned out,21335,pupils,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Osseo grand total revenue all funds per pupil,16549,USD per pupil,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Osseo revenue per pupil rank (most to least),130,rank,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Robbinsdale ADM served plus tuitioned out,12382,pupils,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Robbinsdale grand total revenue all funds per pupil,17317,USD per pupil,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Robbinsdale revenue per pupil rank (most to least),104,rank,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Bloomington ADM served plus tuitioned out,10638,pupils,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Bloomington grand total revenue all funds per pupil,17939,USD per pupil,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Bloomington revenue per pupil rank (most to least),77,rank,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Edina ADM served plus tuitioned out,8445,pupils,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Edina grand total revenue all funds per pupil,17580,USD per pupil,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Edina revenue per pupil rank (most to least),89,rank,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Wayzata ADM served plus tuitioned out,11999,pupils,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Wayzata grand total revenue all funds per pupil,16260,USD per pupil,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Wayzata revenue per pupil rank (most to least),142,rank,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Minneapolis ADM served plus tuitioned out,36368,pupils,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Minneapolis grand total revenue all funds per pupil,20188,USD per pupil,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2019,Minneapolis revenue per pupil rank (most to least),32,rank,https://www.house.mn.gov/comm/docs/tSVATDIT3kaRq2RxJG0Xbg.pdf
+2024,Minneapolis adjusted pupil units (forecast),27004,APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Minneapolis base general education revenue per pupil (forecast),13546,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Minneapolis base special education revenue per pupil (forecast),2442,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Minneapolis base other revenue per pupil (forecast),1666,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,St. Paul adjusted pupil units (forecast),31542,APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,St. Paul base general education revenue per pupil (forecast),13053,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,St. Paul base special education revenue per pupil (forecast),2115,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,St. Paul base other revenue per pupil (forecast),1195,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Anoka-Hennepin adjusted pupil units (forecast),38128,APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Anoka-Hennepin base general education revenue per pupil (forecast),10998,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Anoka-Hennepin base special education revenue per pupil (forecast),2050,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Anoka-Hennepin base other revenue per pupil (forecast),559,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Rochester adjusted pupil units (forecast),16900,APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Rochester base general education revenue per pupil (forecast),10849,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Rochester base special education revenue per pupil (forecast),2287,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Rochester base other revenue per pupil (forecast),1043,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Osseo adjusted pupil units (forecast),20912,APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Osseo base general education revenue per pupil (forecast),12277,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Osseo base special education revenue per pupil (forecast),1671,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Osseo base other revenue per pupil (forecast),1647,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Robbinsdale adjusted pupil units (forecast),10520,APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Robbinsdale base general education revenue per pupil (forecast),12924,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Robbinsdale base special education revenue per pupil (forecast),1633,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Robbinsdale base other revenue per pupil (forecast),1867,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Bloomington adjusted pupil units (forecast),9977,APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Bloomington base general education revenue per pupil (forecast),12389,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Bloomington base special education revenue per pupil (forecast),2567,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Bloomington base other revenue per pupil (forecast),1138,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Edina adjusted pupil units (forecast),8563,APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Edina base general education revenue per pupil (forecast),11289,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Edina base special education revenue per pupil (forecast),2067,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Edina base other revenue per pupil (forecast),1566,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Wayzata adjusted pupil units (forecast),11923,APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Wayzata base general education revenue per pupil (forecast),11191,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Wayzata base special education revenue per pupil (forecast),1222,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Wayzata base other revenue per pupil (forecast),2039,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Statewide adjusted pupil units (forecast),851298,APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Statewide base general education revenue per pupil (forecast),11013,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Statewide base special education revenue per pupil (forecast),2023,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2024,Statewide base other revenue per pupil (forecast),881,USD per APU,https://www.house.mn.gov/comm/docs/7TmYQo6M2EybBmFmenEFsw.pdf
+2023,St. Paul total revenue per student (NCES),26316,USD per student,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2733840
+2023,St. Paul total expenditures per student (NCES),26356,USD per student,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2733840
+2023,St. Paul current expenditures per student (NCES),21634,USD per student,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2733840
+2025,St. Paul total students (NCES 2024-25),33041,students,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2733840
+2023,Anoka-Hennepin total revenue per student (NCES),16848,USD per student,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2703180
+2023,Anoka-Hennepin total expenditures per student (NCES),17610,USD per student,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2703180
+2023,Anoka-Hennepin current expenditures per student (NCES),15130,USD per student,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2703180
+2025,Anoka-Hennepin total students (NCES 2024-25),38354,students,https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=2703180

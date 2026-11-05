@@ -1,0 +1,6 @@
+fiscal_year,destination,students,pct_of_resident_public,method,source
+2025,MPS,27753,58.2,MPS served K-12 ADM 28313 minus 560 nonresidents open-enrolled into MPS (our estimate),MDE PROD099540 and PROD085894
+2025,Other districts (open enrollment),6116,12.8,October 1 2024 count of Minneapolis residents open-enrolled elsewhere,MDE Open Enrollment 2024-25 (PROD085894)
+2025,Charter schools and other,13793,28.9,Resident K-12 ADM 47662 minus the two rows above; mostly charter schools (our estimate),MDE Resident ADM FY25 (PROD099536)
+2025,Private schools (estimate),5200,,"Rough estimate (our estimate): 5,368 K-12 students attended the 17 private schools located in Minneapolis in 2024-25 (includes some nonresidents, misses residents at suburban private schools); MDE counted 5,051 Minneapolis residents in private school in 2022-23 (via Mpls School Voices)",MDE 2024-25 Enrollment-Nonpublic (PROD085892); Mpls School Voices citing MDE (2022-23)
+2025,Homeschool,394,,"Minneapolis homeschool count, all ages, 2024-25",MDE 2024-25 Enrollment Homeschool (PROD085893)

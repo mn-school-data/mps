@@ -1,0 +1,5 @@
+fiscal_year,grades,mpls_resident_adm_all_public,mps_served_adm,residents_not_in_mps_adm,pct_residents_not_in_mps,source
+2025,K-5,22771,14192,8579,37.7,MDE FY25 Resident ADM (PROD099536) and FY25 Adjusted ADM by District and Grade (PROD099540); MPS served ADM includes some nonresidents (our estimate)
+2025,6-8,10554,5661,4893,46.4,MDE FY25 Resident ADM (PROD099536) and FY25 Adjusted ADM by District and Grade (PROD099540); MPS served ADM includes some nonresidents (our estimate)
+2025,9-12,14336,8460,5876,41.0,MDE FY25 Resident ADM (PROD099536) and FY25 Adjusted ADM by District and Grade (PROD099540); MPS served ADM includes some nonresidents (our estimate)
+2025,K-12,47662,28313,19349,40.6,MDE FY25 Resident ADM (PROD099536) and FY25 Adjusted ADM by District and Grade (PROD099540); MPS served ADM includes some nonresidents (our estimate)

@@ -1,0 +1,13 @@
+fiscal_year,state_revenue_total_usd,special_ed_state_aid_usd,of_which_special_transport_aid_usd,of_which_cross_subsidy_reduction_aid_usd,other_state_aid_usd,basis,notes,sources
+2015,399944459,60283869,,,339660590,"total audited; special ed budget-book actual","budget-book state aids sum to $391.2M, not the audited $399.9M, so the split is approximate","ACFR; 2017-18 Budget Book p.16"
+2016,410256617,59198766,,,351057851,"total audited; special ed budget-book actual","budget-book state aids sum to the audited total exactly","ACFR; 2017-18 Budget Book p.16"
+2017,402839217,61000000,,,341839217,"total audited; special ed forecast","forecast in the 2017-18 Budget Book","ACFR; 2017-18 Budget Book p.16"
+2018,408375976,64786718,,,343589258,"total audited; special ed budget","adopted budget figure","ACFR; 2017-18 Budget Book p.16"
+2019,406906740,,,,,"total audited","special ed split not found","ACFR"
+2020,400306331,,,,,"total audited","special ed split not found","ACFR"
+2021,387675107,,,,,"total audited","special ed split not found","ACFR"
+2022,371678222,,,,,"total audited","special ed split not found","ACFR"
+2023,354667173,70291286,28439231,3470888,284375887,"total audited; special ed district (Apr 28 2026 deck)","special ed is net aid after tuition billing; transport = prior-year FIN 723+728 cost (100% reimbursed)","ACFR; BoardBook 10298656; Fall 2022 pro forma"
+2024,400577499,80311390,20768457,21450024,320266109,"total audited; special ed district","special transport dipped because 2022-23 homeless transportation was miscoded (press)","ACFR; BoardBook 10298656"
+2025,445143730,108574073,39395147,30745445,336569657,"total audited; special ed district","","ACFR; BoardBook 10298656"
+2026,,133009583,45483359,34103473,,"special ed district estimate","FIN 723 portion reimbursed at 95% from FY2026, so the actual transport aid will be slightly below cost","BoardBook 10298656"
